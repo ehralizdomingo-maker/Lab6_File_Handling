@@ -1,0 +1,4 @@
+Student ID: TUPM-26-1840
+ID sum: 21
+Verification value: 147
+ID sum: 21

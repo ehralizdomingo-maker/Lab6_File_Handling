@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+-------------------------------------
+Last Name: Domingo
+Student ID: TUPM-26-1840
+Seed Digit: 0
+ID Sum: 21
+Verification Value: 147
+Dataset Sample Size: 71
+Valid Records: 71
+Average Global Active Power: 4.015
+JSON File: Domingo_TUPM-26-1840_record.json
+Backup File: Domingo_TUPM-26-1840_record.csv

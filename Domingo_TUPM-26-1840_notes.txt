@@ -1,0 +1,7 @@
+Student: Domingo
+Student ID: TUPM-26-1840
+Seed digit: 0
+ID sum: 21
+Verification value: 147
+Seed digit: 0
+ID sum: 21
